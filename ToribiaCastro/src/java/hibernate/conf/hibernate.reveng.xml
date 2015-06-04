@@ -1,0 +1,13 @@
+<!-- 
+
+ARCHIVO DE EJEMPLO - CONFIGURACION DE HIBERNATE USANDO INGENIRIA INVERSA
+CONEXION CON LAS TABLAS DE LA BASE DE DATOS
+ARCHIVO UTILIZADO PARA REALIZAR LOS POJOS PARA EL MODELO O ENTIDADES
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
+<hibernate-reverse-engineering>
+  <schema-selection match-catalog="Ejemplo"/>
+  <table-filter match-name="paciente"/>
+</hibernate-reverse-engineering>
+-->
